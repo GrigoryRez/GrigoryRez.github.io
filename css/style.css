@@ -1200,8 +1200,9 @@ nav {
     min-height: 120px;
     max-height: 393px;
     background: url("../img/mb_auto.jpg") center center/cover no-repeat;
+    background-clip: border-box;
   }
-  /* line 341, ../../Desktop/Web-dev/Учёба/Проекты/Uber/src/sass/_media.sass */
+  /* line 342, ../../Desktop/Web-dev/Учёба/Проекты/Uber/src/sass/_media.sass */
   .auto .container .subtitle2 {
     margin: 0 21px;
     font-weight: 300;
@@ -1210,149 +1211,149 @@ nav {
     text-align: center;
     color: #FFFFFF;
   }
-  /* line 348, ../../Desktop/Web-dev/Учёба/Проекты/Uber/src/sass/_media.sass */
+  /* line 349, ../../Desktop/Web-dev/Учёба/Проекты/Uber/src/sass/_media.sass */
   .require {
     padding-top: 25px;
     padding-bottom: 16px;
   }
-  /* line 351, ../../Desktop/Web-dev/Учёба/Проекты/Uber/src/sass/_media.sass */
+  /* line 352, ../../Desktop/Web-dev/Учёба/Проекты/Uber/src/sass/_media.sass */
   .require_title {
     font-size: 16px;
     line-height: 24px;
   }
-  /* line 354, ../../Desktop/Web-dev/Учёба/Проекты/Uber/src/sass/_media.sass */
+  /* line 355, ../../Desktop/Web-dev/Учёба/Проекты/Uber/src/sass/_media.sass */
   .require_list {
     margin-top: 0;
   }
-  /* line 356, ../../Desktop/Web-dev/Учёба/Проекты/Uber/src/sass/_media.sass */
+  /* line 357, ../../Desktop/Web-dev/Учёба/Проекты/Uber/src/sass/_media.sass */
   .require_list li {
     font-size: 14px;
     line-height: 16px;
     margin-bottom: 5px;
   }
-  /* line 360, ../../Desktop/Web-dev/Учёба/Проекты/Uber/src/sass/_media.sass */
+  /* line 361, ../../Desktop/Web-dev/Учёба/Проекты/Uber/src/sass/_media.sass */
   .require_description {
     font-size: 14px;
     line-height: 16px;
     margin-top: 15px;
   }
-  /* line 364, ../../Desktop/Web-dev/Учёба/Проекты/Uber/src/sass/_media.sass */
+  /* line 365, ../../Desktop/Web-dev/Учёба/Проекты/Uber/src/sass/_media.sass */
   .require_block {
     margin-top: 30px;
     margin-bottom: 0px;
   }
-  /* line 367, ../../Desktop/Web-dev/Учёба/Проекты/Uber/src/sass/_media.sass */
+  /* line 368, ../../Desktop/Web-dev/Учёба/Проекты/Uber/src/sass/_media.sass */
   .require_block_nmb {
     margin-top: 14px;
   }
-  /* line 370, ../../Desktop/Web-dev/Учёба/Проекты/Uber/src/sass/_media.sass */
+  /* line 371, ../../Desktop/Web-dev/Учёба/Проекты/Uber/src/sass/_media.sass */
   .es_hidden {
     display: none;
   }
-  /* line 372, ../../Desktop/Web-dev/Учёба/Проекты/Uber/src/sass/_media.sass */
+  /* line 373, ../../Desktop/Web-dev/Учёба/Проекты/Uber/src/sass/_media.sass */
   .es_visible {
     display: block;
   }
-  /* line 374, ../../Desktop/Web-dev/Учёба/Проекты/Uber/src/sass/_media.sass */
+  /* line 375, ../../Desktop/Web-dev/Учёба/Проекты/Uber/src/sass/_media.sass */
   .label_white {
     margin-bottom: 249px;
     line-height: 6px;
   }
-  /* line 378, ../../Desktop/Web-dev/Учёба/Проекты/Uber/src/sass/_media.sass */
+  /* line 379, ../../Desktop/Web-dev/Учёба/Проекты/Uber/src/sass/_media.sass */
   .world {
     padding: 25px 0 31px 0;
     min-height: 360px;
     height: 360px;
   }
-  /* line 382, ../../Desktop/Web-dev/Учёба/Проекты/Uber/src/sass/_media.sass */
+  /* line 383, ../../Desktop/Web-dev/Учёба/Проекты/Uber/src/sass/_media.sass */
   .world .label_white {
     margin-bottom: 14px;
   }
-  /* line 384, ../../Desktop/Web-dev/Учёба/Проекты/Uber/src/sass/_media.sass */
+  /* line 385, ../../Desktop/Web-dev/Учёба/Проекты/Uber/src/sass/_media.sass */
   .world .title_white {
     margin-top: 0;
     font-size: 16px;
     line-height: 16px;
   }
-  /* line 388, ../../Desktop/Web-dev/Учёба/Проекты/Uber/src/sass/_media.sass */
+  /* line 389, ../../Desktop/Web-dev/Учёба/Проекты/Uber/src/sass/_media.sass */
   .world .subtitle_white {
     font-size: 14px;
     line-height: 21px;
     margin-top: 7px;
   }
-  /* line 392, ../../Desktop/Web-dev/Учёба/Проекты/Uber/src/sass/_media.sass */
+  /* line 393, ../../Desktop/Web-dev/Учёба/Проекты/Uber/src/sass/_media.sass */
   .world .linkcity {
     margin-top: 205px;
   }
-  /* line 395, ../../Desktop/Web-dev/Учёба/Проекты/Uber/src/sass/_media.sass */
+  /* line 396, ../../Desktop/Web-dev/Учёба/Проекты/Uber/src/sass/_media.sass */
   .footer {
     min-height: 253px;
     margin: 0;
   }
-  /* line 399, ../../Desktop/Web-dev/Учёба/Проекты/Uber/src/sass/_media.sass */
+  /* line 400, ../../Desktop/Web-dev/Учёба/Проекты/Uber/src/sass/_media.sass */
   .footer_main_str {
     margin-top: 17px;
     max-height: 100%;
   }
-  /* line 402, ../../Desktop/Web-dev/Учёба/Проекты/Uber/src/sass/_media.sass */
+  /* line 403, ../../Desktop/Web-dev/Учёба/Проекты/Uber/src/sass/_media.sass */
   .footer_main_str a {
     font-size: 13px;
   }
-  /* line 406, ../../Desktop/Web-dev/Учёба/Проекты/Uber/src/sass/_media.sass */
+  /* line 407, ../../Desktop/Web-dev/Учёба/Проекты/Uber/src/sass/_media.sass */
   .footer_second_str {
     max-height: 100%;
     margin-top: 6px;
   }
-  /* line 410, ../../Desktop/Web-dev/Учёба/Проекты/Uber/src/sass/_media.sass */
+  /* line 411, ../../Desktop/Web-dev/Учёба/Проекты/Uber/src/sass/_media.sass */
   .footer_second_str a {
     font-size: 11px;
   }
-  /* line 412, ../../Desktop/Web-dev/Учёба/Проекты/Uber/src/sass/_media.sass */
+  /* line 413, ../../Desktop/Web-dev/Учёба/Проекты/Uber/src/sass/_media.sass */
   .footer_second_str.spc {
     margin-top: 4px;
   }
-  /* line 416, ../../Desktop/Web-dev/Учёба/Проекты/Uber/src/sass/_media.sass */
+  /* line 417, ../../Desktop/Web-dev/Учёба/Проекты/Uber/src/sass/_media.sass */
   .footer_third_str a {
     font-size: 11px;
   }
-  /* line 418, ../../Desktop/Web-dev/Учёба/Проекты/Uber/src/sass/_media.sass */
+  /* line 419, ../../Desktop/Web-dev/Учёба/Проекты/Uber/src/sass/_media.sass */
   .footer .icon_h_s {
     display: inline-block;
     margin: 0 auto;
   }
-  /* line 421, ../../Desktop/Web-dev/Учёба/Проекты/Uber/src/sass/_media.sass */
+  /* line 422, ../../Desktop/Web-dev/Учёба/Проекты/Uber/src/sass/_media.sass */
   .footer .icon_h_s a {
     margin-right: 9px;
   }
-  /* line 423, ../../Desktop/Web-dev/Учёба/Проекты/Uber/src/sass/_media.sass */
+  /* line 424, ../../Desktop/Web-dev/Учёба/Проекты/Uber/src/sass/_media.sass */
   .footer .icon_h_d {
     margin-top: 0;
     margin-bottom: 0;
   }
-  /* line 426, ../../Desktop/Web-dev/Учёба/Проекты/Uber/src/sass/_media.sass */
+  /* line 427, ../../Desktop/Web-dev/Учёба/Проекты/Uber/src/sass/_media.sass */
   .footer .icons1 {
     display: flex;
     justify-content: center;
   }
-  /* line 429, ../../Desktop/Web-dev/Учёба/Проекты/Uber/src/sass/_media.sass */
+  /* line 430, ../../Desktop/Web-dev/Учёба/Проекты/Uber/src/sass/_media.sass */
   .footer .xs-visible.row.align-items-start {
     margin-top: 18px;
   }
-  /* line 431, ../../Desktop/Web-dev/Учёба/Проекты/Uber/src/sass/_media.sass */
+  /* line 432, ../../Desktop/Web-dev/Учёба/Проекты/Uber/src/sass/_media.sass */
   .footer .xs-visible.xsd.row.align-items-start {
     margin-top: 20px;
   }
-  /* line 433, ../../Desktop/Web-dev/Учёба/Проекты/Uber/src/sass/_media.sass */
+  /* line 434, ../../Desktop/Web-dev/Учёба/Проекты/Uber/src/sass/_media.sass */
   .footer .row.align-items-start.Lan {
     margin-bottom: 0;
     margin-top: 5px;
   }
-  /* line 436, ../../Desktop/Web-dev/Учёба/Проекты/Uber/src/sass/_media.sass */
+  /* line 437, ../../Desktop/Web-dev/Учёба/Проекты/Uber/src/sass/_media.sass */
   .footer hr {
     color: #1FBAD6;
     margin-top: 24px;
   }
-  /* line 439, ../../Desktop/Web-dev/Учёба/Проекты/Uber/src/sass/_media.sass */
+  /* line 440, ../../Desktop/Web-dev/Учёба/Проекты/Uber/src/sass/_media.sass */
   .es_visible.row {
     display: flex;
   }
